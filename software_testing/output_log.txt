@@ -1,5 +1,0 @@
-Current Item Information:
-1,50,10
-2,30,20
-3,20,15
-
